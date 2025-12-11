@@ -61,22 +61,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-
-<!-- STATS CARD -->
-<img src="https://github-readme-stats.vercel.app/api?username=shobhit23012007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit23012007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shobhit23012007&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
----
-
 ## 🤝 **Collaboration**
 I’m open to:  
 ✔️ Open-source contributions  
