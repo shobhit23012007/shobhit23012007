@@ -36,13 +36,20 @@
 
 ---
 
-## 🗂️ **My Repositories**
-| <span style="color:#58a6ff;">Repo</span> | <span style="color:#c9d1d9;">Description</span> |
-|-----------------------------------------|--------------------------------------------------|
-| **[code](#)** | Collection of Java snippets & small projects |
-| **[Bank-Management-System](#)** | Java-based banking simulation (semester project) |
+**Repositories** section for your GitHub profile with **all public repos** and **direct links**:
 
-> 🔗 *Click on repo names to explore the code.*
+| <span style="color:#58a6ff;">Repo</span>                                                | <span style="color:#c9d1d9;">Description</span>  |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **[code](https://github.com/shobhit23012007/code)**                                     | Collection of Java snippets & small projects     |
+| **[Bank-Management-System](https://github.com/shobhit23012007/Bank-Management-System)** | Java-based banking simulation (semester project) |
+| **[shobhit23012007](https://github.com/shobhit23012007/shobhit23012007)**               | Your GitHub profile as a repository              |
+| **[Campus-Sync](https://github.com/shobhit23012007/Campus-Sync)**                       | Campus Sync project (HTML)                       |
+| **[Cyber-Learn](https://github.com/shobhit23012007/Cyber-Learn)**                       | Cyber Learn project (HTML)                       |
+
+> 🔗 *Click the repo names above to open them directly on GitHub.* ([GitHub][1])
+
+[1]: https://github.com/shobhit23012007 "shobhit23012007 (Shobhit Tiwari) · GitHub"
+
 
 ---
 
