@@ -1,7 +1,7 @@
 # 👨‍💻 Shobhit Tiwari – Java Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=68BBFF&center=true&vCenter=true&width=900&lines=Full-Stack+Java+Developer;OOP+%26+DSA+Enthusiast;Backend+Systems+Builder;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=68BBFF&center=true&vCenter=true&width=900&lines=Full-Stack+Java+Developer;OOP+%26+DSA+Enthusiast;Backend+Systems+Builder;Clean+Code+Advocate" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ## 🌟 About Me
 
-I am a passionate **Java Developer** from **Greater Noida, Uttar Pradesh, India**, focused on building **scalable backend systems**, writing **clean object-oriented code**, and strengthening my foundation in **Data Structures & Algorithms**.
+I am a **Java Developer** from **Greater Noida, India**, focused on building **robust backend systems**, applying **object-oriented principles**, and solving problems using **Data Structures & Algorithms**.
 
-- 💡 Backend & problem-solving focused  
-- 🎯 Strong in OOP & DSA  
+- 💡 Backend & logic-driven development  
+- 🎯 Strong foundation in OOP & DSA  
 - 🚀 Aspiring full-stack developer  
 
 ---
@@ -48,11 +48,11 @@ I am a passionate **Java Developer** from **Greater Noida, Uttar Pradesh, India*
 ## 📂 Featured Projects
 
 ### 🏦 Bank Management System
-Java-based banking simulation implementing real-world OOP concepts  
+Java-based banking simulation using real-world OOP concepts  
 🔗 https://github.com/shobhit23012007/Bank-Management-System
 
 ### 🧠 Code Snippets
-Java algorithms, DSA problems, and utility programs  
+Java algorithms, DSA problems, and utilities  
 🔗 https://github.com/shobhit23012007/code
 
 ### 🎓 Campus Sync
@@ -73,18 +73,10 @@ Cybersecurity learning platform
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics (Stable)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shobhit23012007&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit23012007&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit23012007&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit23012007&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -111,5 +103,5 @@ All projects are open-source under the **MIT License**.
 
 ---
 
-⭐ If you like my work, consider giving a **star**!  
+⭐ If you find my work useful, consider giving a **star**  
 _Last Updated: February 2025_
