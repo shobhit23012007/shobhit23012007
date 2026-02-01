@@ -1,88 +1,115 @@
-<!-- CENTER HEADING WITH ANIMATED TEXT -->
-<div align="center">
+# 👨‍💻 Shobhit Tiwari – Java Developer
 
-# 👋 Hi — I’m <span style="color:#58a6ff;">Shobhit Tiwari</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=68BBFF&center=true&vCenter=true&width=900&lines=Full-Stack+Java+Developer;OOP+%26+DSA+Enthusiast;Backend+Systems+Builder;Open+Source+Learner" />
+</p>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Developer;Open-Source+Contributor;Always+Learning+New+Tech;Based+in+Greater+Noida" />
-
-### _(GitHub: `shobhit23012007`)_  
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=shobhit23012007&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
-## 🌌 **About Me**
-- 📍 **Greater Noida, Uttar Pradesh, India**  
-- 💻 **Java Developer** — passionate about building & learning  
-- 🌱 Exploring new languages, frameworks & improving coding skills  
-- 🚀 Love working on **OOP**, **DSA**, and **backend systems**  
+<p align="center">
+  <a href="https://github.com/shobhit23012007">
+    <img src="https://img.shields.io/badge/GitHub-shobhit23012007-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://v0.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-68BBFF?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**
-<div align="center">
+## 🌟 About Me
 
-<!-- PROGRAMMING LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js" />
+I am a passionate **Java Developer** from **Greater Noida, Uttar Pradesh, India**, focused on building **scalable backend systems**, writing **clean object-oriented code**, and strengthening my foundation in **Data Structures & Algorithms**.
 
-<!-- TOOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,vscode" />
-
-</div>
+- 💡 Backend & problem-solving focused  
+- 🎯 Strong in OOP & DSA  
+- 🚀 Aspiring full-stack developer  
 
 ---
 
-**Repositories** section for your GitHub profile with **all public repos** and **direct links**:
+## 🛠️ Tech Stack
 
-| <span style="color:#58a6ff;">Repo</span>                                                | <span style="color:#c9d1d9;">Description</span>  |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| **[code](https://github.com/shobhit23012007/code)**                                     | Collection of Java snippets & small projects     |
-| **[Bank-Management-System](https://github.com/shobhit23012007/Bank-Management-System)** | Java-based banking simulation (semester project) |
-| **[shobhit23012007](https://github.com/shobhit23012007/shobhit23012007)**               | Your GitHub profile as a repository              |
-| **[Campus-Sync](https://github.com/shobhit23012007/Campus-Sync)**                       | Campus Sync project (HTML)                       |
-| **[Cyber-Learn](https://github.com/shobhit23012007/Cyber-Learn)**                       | Cyber Learn project (HTML)                       |
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> 🔗 *Click the repo names above to open them directly on GitHub.* ([GitHub][1])
-
-[1]: https://github.com/shobhit23012007 "shobhit23012007 (Shobhit Tiwari) · GitHub"
-
-
----
-
-## 📚 **What I’m Learning / Working On**
-- 🔧 Mastering **OOP** & **Data Structures**  
-- 🧠 Learning **Advanced Java** & **Design Patterns**  
-- 🌐 Developing **mini full-stack applications**  
-- ⚙️ Exploring **DBMS + Backend APIs**
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🤝 **Collaboration**
-I’m open to:  
-✔️ Open-source contributions  
-✔️ Team projects  
-✔️ Java or backend-focused collaborations  
+## 📂 Featured Projects
 
-📬 **Feel free to connect anytime!**
+### 🏦 Bank Management System
+Java-based banking simulation implementing real-world OOP concepts  
+🔗 https://github.com/shobhit23012007/Bank-Management-System
+
+### 🧠 Code Snippets
+Java algorithms, DSA problems, and utility programs  
+🔗 https://github.com/shobhit23012007/code
+
+### 🎓 Campus Sync
+Campus management web application  
+🔗 https://github.com/shobhit23012007/Campus-Sync
+
+### 🔐 Cyber Learn
+Cybersecurity learning platform  
+🔗 https://github.com/shobhit23012007/Cyber-Learn
 
 ---
 
-## ⚠️ **License**
-All my work is under the **MIT License** —  
-Use or modify freely, just give proper credit.
+## 🎯 Currently Learning (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Advanced+OOP;Data+Structures+%26+Algorithms;Backend+Development;System+Design;SQL+Databases" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-## ✨ _Thanks for visiting my profile!_  
-## ⭐ _If you like my projects, consider giving them a star!_
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shobhit23012007&theme=dark&hide_border=false" />
+</p>
 
-<!-- COOL ANIMATED GIF -->
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit23012007&show_icons=true&theme=dark" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit23012007&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🤝 Open to Collaboration
+
+- Open-source contributions  
+- Java & backend projects  
+- Team collaborations  
+- Learning & mentoring  
+
+---
+
+## 📬 Contact
+
+- 💻 GitHub: https://github.com/shobhit23012007  
+- 💼 LinkedIn: https://linkedin.com/in/shobhit-tiwari  
+
+---
+
+## 📜 License
+
+All projects are open-source under the **MIT License**.
+
+---
+
+⭐ If you like my work, consider giving a **star**!  
+_Last Updated: February 2025_
