@@ -19,12 +19,12 @@
 <div align="center">
   
   <a href="https://github.com/shobhit23012007">
-    <img src="https://komarev.com/ghpvc/?username=OG-SCARCE&label=Profile%20Views&color=FF0080&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=shobhit23012007&label=Profile%20Views&color=FF0080&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/OG-SCARCE?tab=followers">
+  <a href="https://github.com/shobhit23012007?tab=followers">
     <img src="https://img.shields.io/github/followers/OG-SCARCE?label=Followers&style=for-the-badge&color=7928CA&logo=github" alt="Followers"/>
   </a>
-  <a href="https://github.com/OG-SCARCE?tab=repositories">
+  <a href="https://github.com/shobhit23012007?tab=repositories">
     <img src="https://img.shields.io/github/stars/shobhit23012007?label=Stars&style=for-the-badge&color=00D4FF&logo=github" alt="Stars"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20CV-00FF88?style=for-the-badge" alt="Focus"/>
