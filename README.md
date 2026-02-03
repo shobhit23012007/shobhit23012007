@@ -82,12 +82,6 @@ role: Digital Architect & Innovation Engineer
 location: Digital Universe
 status: Building 24/7
 
-current_project:
-  name: "Onslaught"
-  type: Face Recognition 2D Shooter Game
-  stack: [Java, OpenCV, JavaFX]
-  status: In Development
-
 expertise:
   - Artificial Intelligence & Machine Learning
   - Computer Vision & Image Processing
@@ -235,6 +229,57 @@ philosophy: "Code is poetry. Bugs are plot twists.
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                                    PROJECTS                                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> `</> FEATURED PROJECTS </>` <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="24"/>
+  Campus-sync
+</h3>
+
+<p><em>student attendance managment syatem with course and faculty features</em></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat%209-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/itsZed0/itsZed0/main/assets/code.gif" width="100"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="24"/>
+ Cyber learn
+</h3>
+
+<p><em>student management system and courses</em></p>
+
+<p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat%209-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/terminal.gif" width="100"/>
+
+</td>
+</tr>
+
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                                    SKILLS                                                                       -->
