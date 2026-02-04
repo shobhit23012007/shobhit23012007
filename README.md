@@ -176,37 +176,31 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                                    GITHUB STATS                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ===================================================== -->
+<!--                  GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `</> GITHUB ANALYTICS </>` <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+## </> GITHUB ANALYTICS </>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GITHUB STATS"/>
-  
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="TOP LANGUAGES"/>
-</p>
-<!-- Fire Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobhit23012007&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit23012007&layout=compact&cache_seconds=86400)|
 
-<br>
-<!-- Added streak stats -->
-<p align="center">
-  <img width="800" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit23012007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=F78166&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats"/>
-</p>
-<!-- Fire Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
+---
 
-<br>
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit23012007&bg_color=0d1117&color=00D4FF&line=FF0080&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=7928CA" width="98%" alt="Activity Graph"/>
-</p>
+### 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shobhit23012007&cache_seconds=86400)
+
+
+---
+
+### 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shobhit23012007&bg_color=0d1117&color=00D4FF&line=FF0080&point=FFD700&area=true&hide_border=true)
+
+
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
