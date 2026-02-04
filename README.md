@@ -241,7 +241,11 @@ philosophy: "Code is poetry. Bugs are plot twists.
   Campus-sync
 </h3>
 
-<p><em>student attendance managment syatem with course and faculty features</em></p>
+<a href="https://github.com/shobhit23012007/Campus-Sync" 
+   style="padding: 10px 20px; background:#24292f; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+  student attendance managment syatem with course and faculty features
+</a>
+
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -261,7 +265,11 @@ philosophy: "Code is poetry. Bugs are plot twists.
  Cyber learn
 </h3>
 
-<p><em>student management system and courses</em></p>
+<a href="https://github.com/shobhit23012007/Cyber-Learn" 
+   style="padding: 10px 20px; background:#24292f; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+   student management system and courses
+</a>
+
 
 <p>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
